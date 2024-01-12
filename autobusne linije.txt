@@ -1,0 +1,56 @@
+POLAZAK    DOLAZAK         KRETANJE   STIZANJE          DAT-OD   DAT_DO         VRIJEMEpUTA
+
+Sarajevo   Banja Luka    15:30        20:25           01.01.2024   01.12.2024       4:55
+
+Sarajevo   Bihac         07:30       14:00              01.01.2024   01.12.2024      4:55
+
+Sarajevo   Bihac         13:30      20:00                01.01.2024   01.12.2024      4:55
+
+Sarajevo   Bihac         23:00      05:00             01.01.2024   01.12.2024      4:55
+
+Sarajevo   Mostar      12:30       15:08              01.01.2024   31.12.2024     2:38
+
+Sarajevo   Mostar      14:30      17:15               01.01.2024   31.12.2024     2:45
+
+Sarajevo   Mostar      15:30     18:10                 01.01.2024   31.12.2024     2:38
+
+Sarajevo   Mostar      16:45     19:45                 01.01.2024   31.12.2024     3:00
+
+Sarajevo   Mostar      18:00     20:25                    01.01.2024   31.12.2024     2:25
+
+Sarajevo   Mostar      19:50     22:28                   01.01.2024   31.12.2024     2:38
+
+Sarajevo   Zenica      12:30    13:51                01.01.2024     31.12.2024    1:21
+
+Sarajevo   Zenica    13:30       14:40                    01.01.2024    31.12.2024    1:10
+
+Sarajevo   Zenica    14:30       15:40                  01.01.2024    31.12.2024    1:10
+
+Sarajevo   Zenica    15:30      16:40                 01.01.2024    31.12.2024    1:10
+
+Sarajevo   Zenica    16:30       17:40                 01.01.2024    31.12.2024    1:10
+
+Sarajevo   Zenica    18:30       19:40                    01.01.2024    31.12.2024    1:10
+
+Sarajevo    Zenica    21:00      22:30                    01.01.2024    31.12.2024    1:30
+
+Sarajevo    Tuzla    12:30      15:40           3:10
+
+Sarajevo    Tuzla    15:55      18:50           2:55
+
+Sarajevo    Tuzla    18:00      21:10           3:10
+
+Sarajevo Travnik   13:30    15:30         2:00
+
+Sarajevo  Travnik   17:30   19:20      2:00
+
+Sarajevo Travnik    23:00   01:00    2:00
+
+Sarajevo Bugojno   14:00   16:50  2:50
+
+Sarajevo Bugojno   19:00   21:45   2:45
+
+
+
+
+  
